@@ -1,0 +1,82 @@
+.header-section{
+    background: #F0FFF0;
+    
+}
+.logo-sizing{
+    height: 67px;
+}
+.top-margin{
+    padding-top: 40px;
+}
+.navbar-nav{
+    margin-left: 53%;
+}
+.button-style{
+    background-color:#21B573;
+    padding: 12px 28px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+.button-style2{
+    background-color:#21B573;
+    padding: 10px 38px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+.nav-link{
+    margin-right: 18px;
+    color: black;
+}
+.container{
+    margin-bottom: 80px;
+}
+.img-height{
+    height: 100px;
+    margin-bottom: 20px;
+}
+span{
+    color: #21B573;
+}
+.overview{
+    text-align: center;
+    /* border: 1px solid gray; */
+}
+.calendar-people{
+    height: 30px;
+}
+.Cource{
+    color: #413960;
+}
+.card-title{
+    color: #413960;
+}
+.man-img{
+    height: 150px;
+}
+.testimonal-p{
+    margin-top: 24px;
+    margin-left: 40px;
+}
+footer{
+    background: #282531;
+    color: white;
+}
+.footer-p{
+    text-align: center;
+}
+.footer-content{
+    margin-top: 60px;
+}
+.copyright{
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+.text-color{
+    color: #FD511A;
+}
+.text-bold{
+    font-family: "poppins", "sans serif";
+    font-weight: 700;
+}
